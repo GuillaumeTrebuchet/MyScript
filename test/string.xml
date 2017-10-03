@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Intellisense xmlns="http://tempuri.org/IntellisenseDoc.xsd">
+  <Function>
+    <Name>strlen</Name>
+    <Type>int</Type>
+    <Description>Returns length of string</Description>
+    <Arguments>
+      <Variable>
+        <Name>s</Name>
+        <Type>string</Type>
+        <Description></Description>
+      </Variable>
+    </Arguments>
+  </Function>
+  <Function>
+    <Name>strcat</Name>
+    <Type>string</Type>
+    <Description>Concatenate two strings</Description>
+    <Arguments>
+      <Variable>
+        <Name>s1</Name>
+        <Type>string</Type>
+        <Description></Description>
+      </Variable>
+      <Variable>
+        <Name>s2</Name>
+        <Type>string</Type>
+        <Description></Description>
+      </Variable>
+    </Arguments>
+  </Function>
+  <Function>
+    <Name>strcmp</Name>
+    <Type>int</Type>
+    <Description>Compare two strings</Description>
+    <Arguments>
+      <Variable>
+        <Name>s1</Name>
+        <Type>string</Type>
+        <Description></Description>
+      </Variable>
+      <Variable>
+        <Name>s2</Name>
+        <Type>string</Type>
+        <Description></Description>
+      </Variable>
+    </Arguments>
+  </Function>
+  <Function>
+    <Name>substr</Name>
+    <Type>string</Type>
+    <Description>Returns sub string into another string</Description>
+    <Arguments>
+      <Variable>
+        <Name>s</Name>
+        <Type>string</Type>
+        <Description></Description>
+      </Variable>
+      <Variable>
+        <Name>start</Name>
+        <Type>int</Type>
+        <Description>The start of the substring</Description>
+      </Variable>
+      <Variable>
+        <Name>length</Name>
+        <Type>int</Type>
+        <Description>The length of the substring</Description>
+      </Variable>
+    </Arguments>
+  </Function>
+</Intellisense>
